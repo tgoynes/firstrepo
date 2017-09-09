@@ -1,0 +1,23 @@
+body {
+  background-color : black;
+  color:white;
+}
+
+div {
+  background-color : white;
+  color : black;
+  font-style: oblique;
+margin: auto;
+width: 80%
+}
+
+h1 {
+  padding: 50px;
+  letter-spacing: 5px;
+}
+address {
+
+  font-style: normal;
+  cursor: wait;
+
+}
